@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://liora-app.org/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://liora-app.org/img/screen-1.jpg</image:loc>
+      <image:title>Liora Social — Discover, share, and connect around what you love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://liora-app.org/img/screen-2.jpg</image:loc>
+      <image:title>Liora Social — Discover engaging topics on your feed</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://liora-app.org/img/screen-3.jpg</image:loc>
+      <image:title>Liora Social — Share your content to existing topics</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://liora-app.org/img/screen-4.jpg</image:loc>
+      <image:title>Liora Social — Create your own topics to inspire others</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://liora-app.org/img/screen-5.jpg</image:loc>
+      <image:title>Liora Social — Create projects for your different interests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://liora-app.org/art/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/gaming/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/crafts/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/lifestyle/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/entertainment/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/privacy-policy/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://liora-app.org/terms-of-use/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
