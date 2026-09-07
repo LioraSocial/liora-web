@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://liora-app.org/sitemap.xml
+Sitemap: https://liorasocial.app/sitemap.xml
