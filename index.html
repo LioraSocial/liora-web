@@ -496,5 +496,22 @@
   </footer>
 
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.18.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.18.0/firebase-analytics.js";
+    
+    const firebaseConfig = {
+      apiKey: "AIzaSyBR9434btkTrGQmKLaYcjc3GSxUY9WgPdE",
+      authDomain: "liora-social.firebaseapp.com",
+      projectId: "liora-social",
+      storageBucket: "liora-social.firebasestorage.app",
+      messagingSenderId: "335199412811",
+      appId: "1:335199412811:web:313ae6bc40a9a135e4e3ce",
+      measurementId: "G-L1T3TPGM15",
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </body>
 </html>
